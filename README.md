@@ -1,6 +1,6 @@
 ### Olá! Bem-vindo, eu sou o Rafael =)
 
-- 🌱 Estudando análise e desenvolvimento de sistemas e linguagens como Python e Java; Back-end;
+- 🌱 Estudando análise e desenvolvimento de sistemas e linguagens como Python e Java; Back-end/Front-end;
 - 📫 Contate-me no email: rafasdarosa@gmail.com
 - 😄 Pronouns: ele
 
