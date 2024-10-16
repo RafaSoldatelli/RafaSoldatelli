@@ -1,6 +1,6 @@
 
 <div align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaSoldatelli&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaSoldatelli&layout=compact&theme=dark"/>
     
 </div>
 
