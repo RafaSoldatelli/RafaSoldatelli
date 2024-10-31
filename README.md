@@ -2,7 +2,6 @@
  
 - 🌱 Analista de sistemas Jr
 - 📫 Contate-me no email: rafasdarosa@gmail.com
-- 😄 Pronouns: ele
  
 <div align="left">
 <a href="https://github.com/RafaSoldatelli">
