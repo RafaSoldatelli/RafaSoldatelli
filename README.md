@@ -7,6 +7,7 @@
 <a href="https://github.com/RafaSoldatelli">
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaSoldatelli&layout=compact&langs_count=8&theme=dark"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaSoldatelli&layout=compact&langs_count=8&theme=dark&cache_bust=1"/>
 </div>
 
  ##
