@@ -1,4 +1,4 @@
-### Olá! Bem-vindo, eu sou o Rafael =)
+### Hello and Welcome! I'm Rafael
  
 - 🌱 Mid-level Data Analyst
 - 📫 Contact me: rafasdarosa@gmail.com
