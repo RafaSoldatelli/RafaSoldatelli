@@ -1,7 +1,7 @@
 ### Olá! Bem-vindo, eu sou o Rafael =)
  
-- 🌱 Analista de Dados PL
-- 📫 Contate-me no email: rafasdarosa@gmail.com
+- 🌱 Mid-level Data Analyst
+- 📫 Contact me: rafasdarosa@gmail.com
  
 <div align="left">
 <a href="https://github.com/RafaSoldatelli">
