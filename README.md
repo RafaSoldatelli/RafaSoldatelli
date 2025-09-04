@@ -1,6 +1,6 @@
 ### Olá! Bem-vindo, eu sou o Rafael =)
  
-- 🌱 Desenvolvedor Jr
+- 🌱 Analista de Dados PL
 - 📫 Contate-me no email: rafasdarosa@gmail.com
  
 <div align="left">
